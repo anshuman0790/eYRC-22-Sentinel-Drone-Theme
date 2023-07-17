@@ -162,6 +162,7 @@ Create and save the georeferenced image created by using georeferencer tool.
 # **Task 2A: Waypoint Navigation**
 
 **Task 2A Flying the Quadcopter through Way Points**
+
 **Aim**
 The aim of this task is to write a wrapper over the existing PID control system, written in Task 1 to fly the quadcopter through a list of set points in the simulation environment in Gazebo.
 
